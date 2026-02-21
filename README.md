@@ -18,7 +18,3 @@ A fundamental iOS application developed as a final project for the iOS Developer
 **Faisal Surya Saputra**
 * **Education**: Informatics Student at Telkom University.
 * **Role**: Laboratory Assistant at Motion Lab.
-* **Community**: Lead of Media & Creative at GDG on Campus Telkom University.
-
----
-*This project is submitted for the final evaluation of the "Learning to Create iOS Apps for Beginners" course.*
